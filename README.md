@@ -50,7 +50,7 @@ Ou copie o link abaixo e cole no seu navegador:
 arduino
 Copiar
 Editar
-https://github.com/keerti1924/Responsive-Restaurant-Website.git
+hht
 ##🛠️ Tecnologias Utilizadas
 HTML
 
