@@ -1,15 +1,14 @@
-🌟 Lindoi RSS – Landing Page Responsiva
-Olá! 👋 Seja bem-vindo ao Lindoi RSS, um website moderno e completo para você encontrar as melhores lojas, produtos e promoções em um só lugar.
+# 🌟 Olá! 👋 Seja bem-vindo, um website moderno e completo para você encontrar as melhores lojas, produtos e promoções em um só lugar.
 
 Fácil de navegar, rápido de usar e feito pra você economizar tempo e dinheiro. Acesse agora e descubra tudo o que temos a oferecer!
 
-📸 Fotos
+## 📸 Fotos
 (Adicione aqui prints da interface do site ou imagens do projeto)
 
-🛍️ Sobre o Projeto
+##🛍️ Sobre o Projeto
 Este é um modelo simples de landing page para uma loja ou restaurante, desenvolvido com HTML, CSS, JavaScript e Bootstrap. O layout é 100% responsivo, feito com a abordagem Mobile First, e pode ser facilmente adaptado com as cores, textos e imagens da sua marca.
 
-🔍 Funcionalidades e Seções
+##🔍 Funcionalidades e Seções
 O site é composto por seções bem definidas para apresentar o negócio com clareza:
 
 ✅ Cabeçalho com logotipo e barra de navegação
@@ -32,7 +31,7 @@ O site é composto por seções bem definidas para apresentar o negócio com cla
 
 ✅ Rodapé com links rápidos e redes sociais
 
-📱 Design Responsivo
+##📱 Design Responsivo
 Desenvolvido com a metodologia Mobile First
 
 Compatível com todos os dispositivos móveis
@@ -41,10 +40,10 @@ Interface de usuário moderna, leve e agradável
 
 Textos fictícios (placeholders) utilizados onde necessário
 
-🚀 Como Visualizar o Projeto
+##🚀 Como Visualizar o Projeto
 Você pode acessar o projeto diretamente:
 
-🔗 Clique aqui para visualizar no GitHub
+##🔗 Clique aqui para visualizar no GitHub
 
 Ou copie o link abaixo e cole no seu navegador:
 
@@ -52,7 +51,7 @@ arduino
 Copiar
 Editar
 https://github.com/keerti1924/Responsive-Restaurant-Website.git
-🛠️ Tecnologias Utilizadas
+##🛠️ Tecnologias Utilizadas
 HTML
 
 CSS
@@ -61,9 +60,9 @@ JavaScript
 
 Bootstrap
 
-✨ Status
+##✨ Status
 Este é o meu segundo projeto independente de desenvolvimento web com foco em landing pages responsivas. Ideal para aprender, praticar e customizar.
 
-🤝 Contribuições
+##🤝 Contribuições
 Contribuições, sugestões de melhorias ou relatórios de bugs são muito bem-vindos!
 Sinta-se à vontade para abrir uma issue ou fazer um fork do repositório.
